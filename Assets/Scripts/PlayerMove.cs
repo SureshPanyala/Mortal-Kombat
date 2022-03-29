@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PlayerMove : MonoBehaviour
 {
-    public GameObject SearchObj;
+    private GameObject SearchObj;
     public Transform Gun;
     public GameObject Bullets;
     public float speed = 10f;
@@ -23,6 +23,9 @@ public class PlayerMove : MonoBehaviour
     public int AttackDamage = 10;
     int CurrentWeaponNo;
     public float Ispeed;
+    public Buttons LB;
+    public RightButton RB;
+    
 
     // Start is called before the first frame update
     void Start()
@@ -31,7 +34,7 @@ public class PlayerMove : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
         spr = GetComponent<SpriteRenderer>();
-        
+   
     }
 
     // Update is called once per frame
@@ -64,7 +67,7 @@ public class PlayerMove : MonoBehaviour
             anim.SetBool(WalkAnimation, false);
         }
 
-        
+
     }
     private void FixedUpdate()
     {
@@ -80,13 +83,13 @@ public class PlayerMove : MonoBehaviour
     }
     void Animateplayer()
     {
-        if (MovementX > 0)
+        if (MovementX > 0  || RB._pressed )
         {
             anim.SetBool(WalkAnimation, true);
             transform.eulerAngles = new Vector2(0, 180);
           
         }
-        else if (MovementX < 0)
+        else if (MovementX < 0  || LB._pressed)
         {
             anim.SetBool(WalkAnimation, true);
             transform.eulerAngles = new Vector2(0, 0);
@@ -108,6 +111,18 @@ public class PlayerMove : MonoBehaviour
         }
 
     }
+    public void Pjump()
+    {
+        if (isGrounded)
+        {
+            isGrounded = false;
+            rb.AddForce(new Vector2(0, 1) * Jumpspeed, ForceMode2D.Impulse);
+
+
+        }
+
+    }
+
 
     public void Attack()
     {
@@ -171,17 +186,17 @@ public class PlayerMove : MonoBehaviour
 
 
     //Android using buttons
-    // public void  OnLpointDown()
+   
+
+    public void onAttack()
+    {
+        anim.SetTrigger("Attack");
+    }
+    //public void animate()
     //{
- 
-    //    rb.velocity = new Vector2(-speed, rb.velocity.y);
     //    anim.SetBool(WalkAnimation, true);
     //}
-  
-    //public void onAttack()
-    //{
-    //    anim.SetTrigger("Attack");
-    //}
+   
 
 
 }
