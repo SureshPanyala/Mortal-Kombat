@@ -9,6 +9,7 @@ public class HealthEnemy : MonoBehaviour
    //private int damage = 20;
     public Healthh healthscript;
     private Animator anim;
+    public Shield SHD;
 
     // Start is called before the first frame update
     void Start()
@@ -35,9 +36,13 @@ public class HealthEnemy : MonoBehaviour
     }
     public void TakeDamage(int damage)
     {
-        currentHealth -= damage;
-        healthscript.SetHealth(currentHealth);
-        anim.SetTrigger("hurt");
+       
+        if (SHD.ShieldOn == false)
+        {
+            currentHealth -= damage;
+            healthscript.SetHealth(currentHealth);
+            anim.SetTrigger("hurt");
+        }
 
     }
     //private void OnTriggerEnter2D(Collision2D collision)

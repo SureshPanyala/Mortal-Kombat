@@ -8,6 +8,7 @@ public class PlayerHealth : MonoBehaviour
     public int currentHealth;
     //private int damage = 20;
     public Healthh healthscript;
+    public Shield SHD;
 
     // Start is called before the first frame update
     void Start()
@@ -27,9 +28,12 @@ public class PlayerHealth : MonoBehaviour
     }
     public void TakeDamage(int damage)
     {
+        if (SHD.ShieldOn == false )
+        {
+            currentHealth -= damage;
+            healthscript.SetHealth(currentHealth);
+        }
         
-        currentHealth -= damage;
-        healthscript.SetHealth(currentHealth);
     }
   
 }

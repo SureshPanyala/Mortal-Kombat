@@ -17,7 +17,7 @@ public class Enemymove : MonoBehaviour
     public Transform Attackpoint;
     public float attackRange = 1.5f;
     public float AttackRate = 2f;
-    bool isAttacking = false;
+    public bool isAttacking = false;
     //float NextAttackTime = 0f;
 
     // Start is called before the first frame update

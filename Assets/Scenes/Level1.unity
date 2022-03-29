@@ -336,6 +336,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ShieldObj: {fileID: 1936429352}
+  ShieldOn: 0
+  EM: {fileID: 1180752469}
 --- !u!4 &146077619
 Transform:
   m_ObjectHideFlags: 0
@@ -1841,6 +1843,7 @@ MonoBehaviour:
   Attackpoint: {fileID: 821393095}
   attackRange: 0.5
   AttackRate: 1
+  isAttacking: 0
 --- !u!50 &1180752470
 Rigidbody2D:
   serializedVersion: 4
@@ -1896,6 +1899,7 @@ MonoBehaviour:
   maxHealth: 100
   currentHealth: 0
   healthscript: {fileID: 692728505}
+  SHD: {fileID: 146077618}
 --- !u!1 &1231379156
 GameObject:
   m_ObjectHideFlags: 0
@@ -2762,6 +2766,7 @@ MonoBehaviour:
   maxHealth: 100
   currentHealth: 0
   healthscript: {fileID: 580952343}
+  SHD: {fileID: 146077618}
 --- !u!114 &1539228962
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3524,7 +3529,7 @@ GameObject:
   - component: {fileID: 1936429353}
   m_Layer: 0
   m_Name: Shield
-  m_TagString: Untagged
+  m_TagString: shield
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

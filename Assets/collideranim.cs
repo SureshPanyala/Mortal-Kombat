@@ -38,6 +38,12 @@ public class collideranim : MonoBehaviour
             PH.TakeDamage(Attackdamage);
             print("collide");
         }
+        //else if (collision.gameObject.CompareTag("shield"))
+        //{
+
+        //    PH.TakeDamage(0);
+        //    print("collide");
+        //}
 
     }
 
