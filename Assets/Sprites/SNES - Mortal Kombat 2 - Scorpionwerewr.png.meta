@@ -1,0 +1,1812 @@
+fileFormatVersion: 2
+guid: 4a3bde450fa84fc499e1469dc941fd31
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7075226504219525013
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_0
+  - first:
+      213: -4016736717735394191
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_1
+  - first:
+      213: -6342254307941653248
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_2
+  - first:
+      213: 4958523010063125338
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_3
+  - first:
+      213: -404280607338864339
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_4
+  - first:
+      213: 8009133652616047768
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_5
+  - first:
+      213: -5552464396631953133
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_6
+  - first:
+      213: -386753073874402133
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_7
+  - first:
+      213: 6170348807234936591
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_8
+  - first:
+      213: 7073066104184982951
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_9
+  - first:
+      213: 8502303157833743732
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_10
+  - first:
+      213: 2010401155864563865
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_11
+  - first:
+      213: -5834626289689387195
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_12
+  - first:
+      213: 3995238584049129176
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_13
+  - first:
+      213: 776483999356290174
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_14
+  - first:
+      213: -8320899956026670924
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_15
+  - first:
+      213: 6379037534309363410
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_16
+  - first:
+      213: 6506921976137382574
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_17
+  - first:
+      213: -1705805482529308688
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_18
+  - first:
+      213: 8988073606899888283
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_19
+  - first:
+      213: 1436947236793002461
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_20
+  - first:
+      213: 777553391311053430
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_21
+  - first:
+      213: 143657416542478894
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_22
+  - first:
+      213: 5661514644255420900
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_23
+  - first:
+      213: -964371002582642420
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_24
+  - first:
+      213: 3849893911917496090
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_25
+  - first:
+      213: -7052386252948616753
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_26
+  - first:
+      213: -7504940325156554164
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_27
+  - first:
+      213: 1012984687892950280
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_28
+  - first:
+      213: -4199604282472445350
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_29
+  - first:
+      213: 5719687079568792690
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_30
+  - first:
+      213: -5211498637120774965
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_31
+  - first:
+      213: -2206774125415658354
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_32
+  - first:
+      213: -7450168977624368131
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_33
+  - first:
+      213: -4358468626138018672
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_34
+  - first:
+      213: 1648937814983518986
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_35
+  - first:
+      213: -882184973806733251
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_36
+  - first:
+      213: 7632730381322454912
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_37
+  - first:
+      213: 3402142131365110054
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_38
+  - first:
+      213: 7062564335903033898
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_39
+  - first:
+      213: -5809394357570902494
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_40
+  - first:
+      213: 845611035134271686
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_41
+  - first:
+      213: 5896771652847200342
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_42
+  - first:
+      213: -8274392767623494343
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_43
+  - first:
+      213: 4466675120893698607
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_44
+  - first:
+      213: -8081131964596042997
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_45
+  - first:
+      213: 7315096385954638057
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_46
+  - first:
+      213: 843437106389331811
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_47
+  - first:
+      213: 2820836174671787830
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_48
+  - first:
+      213: -7468566055803318729
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_49
+  - first:
+      213: -889229937640128841
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_50
+  - first:
+      213: 8368426289179087413
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_51
+  - first:
+      213: 4198187830648257210
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_52
+  - first:
+      213: 8276356956294854602
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_53
+  - first:
+      213: 5830771289797784054
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_54
+  - first:
+      213: -1776904909872051505
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_55
+  - first:
+      213: -9130912324757566121
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_56
+  - first:
+      213: -2695423712034553217
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_57
+  - first:
+      213: 984136316120713465
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_58
+  - first:
+      213: -5796752691018562662
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_59
+  - first:
+      213: -8511445082342876825
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_60
+  - first:
+      213: -6433146017852643576
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_61
+  - first:
+      213: -8050941827085812400
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_62
+  - first:
+      213: 5041071710779555497
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_63
+  - first:
+      213: -3657799017648406815
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_64
+  - first:
+      213: 1063822708790640527
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_65
+  - first:
+      213: -7344534922025389332
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_66
+  - first:
+      213: 4944080973923378181
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_67
+  - first:
+      213: -5446579441083046173
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_68
+  - first:
+      213: 7511355529913052332
+    second: SNES - Mortal Kombat 2 - Scorpionwerewr_69
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 529
+        width: 43
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6001960bfebfcd90800000000000000
+      internalID: -7075226504219525013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 529
+        width: 44
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1740d1f9c3fa148c0800000000000000
+      internalID: -4016736717735394191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 529
+        width: 43
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00562f34f49cbf7a0800000000000000
+      internalID: -6342254307941653248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 529
+        width: 42
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bc961086630d440800000000000000
+      internalID: 4958523010063125338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_4
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 529
+        width: 43
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21ecf9fde4b36af0800000000000000
+      internalID: -404280607338864339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_5
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 529
+        width: 43
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c6ec27f98262f60800000000000000
+      internalID: 8009133652616047768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_6
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 529
+        width: 74
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311bfbaac0fa1f2b0800000000000000
+      internalID: -5552464396631953133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_7
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 529
+        width: 41
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba40defd02af1aaf0800000000000000
+      internalID: -386753073874402133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_8
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 529
+        width: 83
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f5e7b5c8b71a550800000000000000
+      internalID: 6170348807234936591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_9
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 529
+        width: 47
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad4dc4a524982260800000000000000
+      internalID: 7073066104184982951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 401
+        width: 35
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47dbc57ccaf3ef570800000000000000
+      internalID: 8502303157833743732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_11
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 401
+        width: 42
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990975f133166eb10800000000000000
+      internalID: 2010401155864563865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_12
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 401
+        width: 62
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f98ed7d4e370fa0800000000000000
+      internalID: -5834626289689387195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_13
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 401
+        width: 39
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6de231350f17730800000000000000
+      internalID: 3995238584049129176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_14
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 401
+        width: 49
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74086b5510a6ca00800000000000000
+      internalID: 776483999356290174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_15
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 401
+        width: 55
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b087757399368c80800000000000000
+      internalID: -8320899956026670924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_16
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 401
+        width: 47
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dea46107d4e68850800000000000000
+      internalID: 6379037534309363410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_17
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 401
+        width: 40
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaaf9d8ef0b3d4a50800000000000000
+      internalID: 6506921976137382574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_18
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 401
+        width: 44
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff3ded83f2c358e0800000000000000
+      internalID: -1705805482529308688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_19
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 401
+        width: 38
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90f45a135d0cbc70800000000000000
+      internalID: 8988073606899888283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_20
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 401
+        width: 72
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9a60a06ef01f310800000000000000
+      internalID: 1436947236793002461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_21
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 401
+        width: 40
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672eef290bc6aca00800000000000000
+      internalID: 777553391311053430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_22
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 401
+        width: 44
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e226d52c8af5ef100800000000000000
+      internalID: 143657416542478894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_23
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 401
+        width: 76
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1348da29db19e40800000000000000
+      internalID: 5661514644255420900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_24
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 273
+        width: 31
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01df5fbeaddd92f0800000000000000
+      internalID: -964371002582642420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_25
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 273
+        width: 41
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1708c28d129d6530800000000000000
+      internalID: 3849893911917496090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_26
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 273
+        width: 56
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9462e6114e02e90800000000000000
+      internalID: -7052386252948616753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_27
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 273
+        width: 65
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4af982898819d790800000000000000
+      internalID: -7504940325156554164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_28
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 273
+        width: 53
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80de4c4e438de0e00800000000000000
+      internalID: 1012984687892950280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_29
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 273
+        width: 37
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a4502d72208b5c0800000000000000
+      internalID: -4199604282472445350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_30
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 273
+        width: 36
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cd61c3819606f40800000000000000
+      internalID: 5719687079568792690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_31
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 273
+        width: 70
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccdbfae9990da7b0800000000000000
+      internalID: -5211498637120774965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_32
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 273
+        width: 53
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c831bff96ff51e0800000000000000
+      internalID: -2206774125415658354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_33
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 273
+        width: 36
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb701c99ceab9890800000000000000
+      internalID: -7450168977624368131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_34
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 273
+        width: 42
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ccb5e60eb9383c0800000000000000
+      internalID: -4358468626138018672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_35
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 273
+        width: 35
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b2dcec43432e610800000000000000
+      internalID: 1648937814983518986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_36
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 145
+        width: 34
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38ff0ab079d1c3f0800000000000000
+      internalID: -882184973806733251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_37
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 145
+        width: 34
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0878e0587d7ece960800000000000000
+      internalID: 7632730381322454912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_38
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 145
+        width: 43
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621686f3e36d63f20800000000000000
+      internalID: 3402142131365110054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_39
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 145
+        width: 34
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ac7dc28d4430260800000000000000
+      internalID: 7062564335903033898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_40
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 145
+        width: 34
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226e3dc7c92e06fa0800000000000000
+      internalID: -5809394357570902494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_41
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 145
+        width: 37
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0245791c63cbb00800000000000000
+      internalID: 845611035134271686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_42
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 145
+        width: 52
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658ec89639a85d150800000000000000
+      internalID: 5896771652847200342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_43
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 145
+        width: 54
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9358db11e937b2d80800000000000000
+      internalID: -8274392767623494343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_44
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 145
+        width: 75
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22a1f36b51dcfd30800000000000000
+      internalID: 4466675120893698607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_45
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 145
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03c23b3b4d0adf80800000000000000
+      internalID: -8081131964596042997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_46
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 229
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8e19ee761748560800000000000000
+      internalID: 7315096385954638057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_47
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 212
+        width: 27
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f28bc549d74bb00800000000000000
+      internalID: 843437106389331811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_48
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 196
+        width: 141
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63732e03e8f952720800000000000000
+      internalID: 2820836174671787830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_49
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 167
+        width: 166
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e8d4e0eb25a5890800000000000000
+      internalID: -7468566055803318729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_50
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 91
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be31534512d8a3f0800000000000000
+      internalID: -889229937640128841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_51
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 82
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5325f874f5f922470800000000000000
+      internalID: 8368426289179087413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_52
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 57
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba382ac695f24a30800000000000000
+      internalID: 4198187830648257210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_53
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 44
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7b94e3dc68bd270800000000000000
+      internalID: 8276356956294854602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_54
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 16
+        width: 56
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f171f6689f0be050800000000000000
+      internalID: 5830771289797784054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_55
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 16
+        width: 54
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcacd6f166a2757e0800000000000000
+      internalID: -1776904909872051505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_56
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 16
+        width: 54
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75dc6974e9b784180800000000000000
+      internalID: -9130912324757566121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_57
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 16
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7204053a6ee79ad0800000000000000
+      internalID: -2695423712034553217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_58
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 52
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8cfece3ca58ad00800000000000000
+      internalID: 984136316120713465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_59
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 81
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a938c09d32ccd8fa0800000000000000
+      internalID: -5796752691018562662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_60
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 81
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76915bd0bc541e980800000000000000
+      internalID: -8511445082342876825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_61
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 52
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807aca1f7cfd8b6a0800000000000000
+      internalID: -6433146017852643576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_62
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 16
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d3731601f454090800000000000000
+      internalID: -8050941827085812400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_63
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 57
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae3940230c75f540800000000000000
+      internalID: 5041071710779555497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_64
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 32
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee3b4d5c23ec3dc0800000000000000
+      internalID: -3657799017648406815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_65
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 16
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fb5750e1573ce00800000000000000
+      internalID: 1063822708790640527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_66
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 16
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2b934c668f21a90800000000000000
+      internalID: -7344534922025389332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_67
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 39
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504687f6377ec9440800000000000000
+      internalID: 4944080973923378181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_68
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 16
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6ac450bdcd964b0800000000000000
+      internalID: -5446579441083046173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mortal Kombat 2 - Scorpionwerewr_69
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 16
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac222ebe02bd3860800000000000000
+      internalID: 7511355529913052332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
