@@ -10,6 +10,10 @@ TagManager:
   - PlayerHit
   - EnemyHit
   - SharpMetal
+  - StrikeHit
+  - SkyLight
+  - EnemyCollider
+  - MoonLight
   layers:
   - Default
   - TransparentFX

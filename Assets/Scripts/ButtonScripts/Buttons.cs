@@ -37,7 +37,7 @@ public class Buttons : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
         if (_pressed)
         {
             //anim.SetBool(WalkAnimation, true);
-            Player.transform.Translate(speed * Time.deltaTime, 0f, 0f);
+            Player.transform.Translate(-speed * Time.deltaTime, 0f, 0f);
             //Player.transform.eulerAngles = new Vector2(0, 0);
            
            
